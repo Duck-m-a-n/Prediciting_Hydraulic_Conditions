@@ -1,6 +1,6 @@
 # Hydraulic Systems Monitoring by Stacking RandomForest 🌲🔧
 ## Stephen Duckers, Data Project Club - May 2023
-Connect with me on [LinkedIn]([your_linkedin_url](https://www.linkedin.com/in/stephen-jake-duckers/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-jake-duckers/)
 
 ### Dataset:
 [UCI Condition monitoring of hydraulic systems Data Set](https://archive.ics.uci.edu/ml/datasets/condition+monitoring+of+hydraulic+systems)
